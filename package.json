@@ -1,0 +1,22 @@
+{
+    "name": "pixel_32man_32run",
+    "displayName": "Pixel Man Run",
+    "version": "1.0.0",
+    "description": "Pixel Man Run",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "",
+    "devDependencies": {
+        "cordova-plugin-ionic-webview": "5.0.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-ionic-webview": {}
+        }
+    }
+}
